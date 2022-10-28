@@ -27,5 +27,10 @@ export const className = `
     .container {
         display: flex;
     }
+
+    .output {
+      color: white;
+      font-size: 18px;
+    }
 `
 
